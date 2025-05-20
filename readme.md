@@ -3,16 +3,6 @@
 A modern Android Jetpack Compose UI for a profile screen, inspired by CRED's design.  
 This project demonstrates the use of Material3, custom colors, and Compose best practices.
 
-## Features
-
-- Pure black background for a sleek, modern look
-- Profile section with avatar, name, and edit button
-- CRED Garage card with icon and navigation arrow
-- Credit score, cashback, and bank balance cards
-- Rewards & benefits section
-- Transactions & support section
-- Fully responsive and customizable
-
 ## Screenshots
 
 <img src="media/screenshot1.jpg" alt="Profile Screen Screenshot" width="300"/>
