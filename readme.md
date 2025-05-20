@@ -15,19 +15,19 @@ This project demonstrates the use of Material3, custom colors, and Compose best 
 
 ## Screenshots
 
-![Profile Screen Screenshot](media/screenshot1.jpg)
+<img src="media/screenshot1.jpg" alt="Profile Screen Screenshot" width="300"/>
 
-![Profile Screen Screenshot](media/screenshot2.jpg)
+<img src="media/screenshot2.jpg" alt="Profile Screen Screenshot" width="300"/>
 
 ## Demo Video
 
-[Watch Demo Video](media/demo.mp4)
+![Watch Demo Video](media/demo.mp4)
 
 ## Getting Started
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Mohmed-Husain/Profile-Activity-UI.git
    ```
 
 2. **Open in Android Studio or VS Code**
@@ -40,7 +40,7 @@ This project demonstrates the use of Material3, custom colors, and Compose best 
      ```
 
 4. **Open the ProfileScreen**
-   - The main UI is in `app/src/main/java/com/husain/mykotlin/screens/ProfileScreen.kt`.
+   - The main UI is in `app/src/main/java/com/<User>/mykotlin/screens/ProfileScreen.kt`.
 
 ## Dependencies
 
@@ -55,10 +55,5 @@ This project demonstrates the use of Material3, custom colors, and Compose best 
 
 ---
 
-**Video Demo:**  
-[![Demo Video](<attach-your-screenshot-here>)](<attach-your-video-here>)
-
----
-
 **Author:**  
-Husain
+Mohmed Husain
